@@ -12,11 +12,11 @@
 
 ##  What's inside?
 
-- Electron (v3)
+- Electron (v22)
 - Parcel
-- ReactJS (v16)
+- ReactJS (v18)
 - React Hot Loader
-- Styled Components (v4)
+- Styled Components (v5)
 - Styled Reset (Advanced)
 - Eslint
 
@@ -24,13 +24,13 @@
 ```bash
 $ git clone --depth 1 https://github.com/markoradak/electron-starter-reactjs-parcel my-awesome-app
 
-$ cd my-awesome-site
+$ cd my-awesome-app
 
 $ git remote rm origin
 $ git remote add origin https://github.com/user/repo.git
 
+$ yarn
 $ yarn start
-$ yarn electron-dev
 ```
 
 ## License
